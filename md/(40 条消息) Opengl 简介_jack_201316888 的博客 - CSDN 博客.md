@@ -1,6 +1,6 @@
 > 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [blog.csdn.net](https://blog.csdn.net/u010451780/article/details/121732605)
 
-**OpenGL（英语：Open Graphics Library，译名：开放图形库或者 “开放式图形库”）**是用于渲染 2D、3D [矢量图](https://so.csdn.net/so/search?q=%E7%9F%A2%E9%87%8F%E5%9B%BE&spm=1001.2101.3001.7020)形的跨语言、跨平台的应用程序编程接口（API）。这个接口由近 350 个不同的函数调用组成，用来绘制从简单的图形比特到复杂的三维景象。而另一种程序接口系统是仅用于 Microsoft Windows 上的 Direct3D。OpenGL 常用于 CAD、虚拟现实、科学可视化程序和电子游戏开发。
+**OpenGL（英语：Open Graphics Library，译名：开放图形库或者 “开放式图形库”）** 是用于渲染 2D、3D [矢量图](https://so.csdn.net/so/search?q=%E7%9F%A2%E9%87%8F%E5%9B%BE&spm=1001.2101.3001.7020)形的跨语言、跨平台的应用程序编程接口（API）。这个接口由近 350 个不同的函数调用组成，用来绘制从简单的图形比特到复杂的三维景象。而另一种程序接口系统是仅用于 Microsoft Windows 上的 Direct3D。OpenGL 常用于 CAD、虚拟现实、科学可视化程序和电子游戏开发。
 
 [OpenGL](https://so.csdn.net/so/search?q=OpenGL&spm=1001.2101.3001.7020) 被设计为**只有输出的**，所以它只提供渲染功能。核心 [API](https://so.csdn.net/so/search?q=API&spm=1001.2101.3001.7020) 没有窗口系统、音频、打印、键盘 / 鼠标或其他输入设备的概念。虽然这一开始看起来像是一种限制，但它允许进行渲染的代码完全独立于他运行的操作系统，**允许跨平台开发**。
 
